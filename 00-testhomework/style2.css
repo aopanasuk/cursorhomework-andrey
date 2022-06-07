@@ -1,0 +1,21 @@
+.heads {
+    background: linear-gradient(105deg, rgba(255,255,255,.2) 39%, rgba(51,56,57,1) 96%) center center / 400px 200px no-repeat,
+    url(big-star.png) center no-repeat, rebeccapurple;
+  } 
+.heads{
+    font-family: 'Tiro Gurmukhi', serif;
+}
+.heads{
+    background-color: white
+}
+p{
+    margin: 0px;
+    font-weight:bolder;
+    font-style: italic;
+}
+.image{
+    height: 250px;
+    float: left !important;
+   }
+
+
